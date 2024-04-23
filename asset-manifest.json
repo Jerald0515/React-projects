@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Jerald0515/React-projects.git/static/css/main.d07ebe3e.css",
+    "main.js": "/Jerald0515/React-projects.git/static/js/main.83bdb779.js",
+    "static/js/453.fb67ec70.chunk.js": "/Jerald0515/React-projects.git/static/js/453.fb67ec70.chunk.js",
+    "static/media/banner.jpg": "/Jerald0515/React-projects.git/static/media/banner.4626a892da079d66552b.jpg",
+    "index.html": "/Jerald0515/React-projects.git/index.html",
+    "main.d07ebe3e.css.map": "/Jerald0515/React-projects.git/static/css/main.d07ebe3e.css.map",
+    "main.83bdb779.js.map": "/Jerald0515/React-projects.git/static/js/main.83bdb779.js.map",
+    "453.fb67ec70.chunk.js.map": "/Jerald0515/React-projects.git/static/js/453.fb67ec70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d07ebe3e.css",
+    "static/js/main.83bdb779.js"
+  ]
+}
